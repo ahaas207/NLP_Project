@@ -54,6 +54,7 @@ The experiment results are presented in various ways:
 Additionally, the statistical significance of the results is tested using the Mann-Whitney U test. The output indicates whether there are statistically significant differences between Real Student and AI Student Scores at each priming level.
 
 For detailed tabular results in LaTeX format, refer to the files `output_part1.tex` and `output_part2.tex`.
+You must save the human output_part1 and human output_part2 before running the ai student portion to get the same named output files, as they will be overwritten.
 
 To visualize the results, the following plots are generated and saved as images:
 
