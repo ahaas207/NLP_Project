@@ -3,7 +3,7 @@
 
 ## Description
 
-Explores the limitations of human-authored tone (in context of sentiment) priming language models.
+Explores the limitations of human-authored tone (in the context of sentiment) priming language models.
 
 ## Table of Contents
 
@@ -33,9 +33,11 @@ Before running the code, ensure you have the following libraries and dependencie
 
 ## Usage
 
-1. Set up your OpenAI API key by adding it to the `openai.api_key` variable in the Python script. You will need to have the paid OpenAI API (not the same subscription as ChatGPT Plus) option for this model (using the second model would not have kept up with cutting-edge research in the area). Be sure to put limits to prevent any surpise costs. 
+1. Set up your OpenAI API key by adding it to the `openai.api_key` variable in the Python script. You will need to have the paid OpenAI API (not the same subscription as ChatGPT Plus) option for this model (using the second model would not have kept up with cutting-edge research in the area). Be sure to put limits to prevent any surpise costs.
 
-2. Run all
+2. The sentiment analysis comparisons between responses will be resource-costly. Utilize GPU to decrease time. 
+
+3. Run all
 
 
 ## Experiment Description
