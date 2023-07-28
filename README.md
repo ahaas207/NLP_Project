@@ -35,7 +35,7 @@ Before running the code, ensure you have the following libraries and dependencie
 
 1. Set up your OpenAI API key by adding it to the `openai.api_key` variable in the Python script. You will need to have the paid option for this model (using the second model would not have kept up with cutting-edge research in the area).
 
-2. Run the experiment
+2. Run all
 
 
 ## Experiment Description
