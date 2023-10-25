@@ -3,7 +3,7 @@
 
 ## Description
 
-Explores the limitations of human-authored tone (in the context of sentiment) priming language models.
+Explores the limitations of human-authored tone (in the context of sentiment) when priming language models.
 
 ## Table of Contents
 
